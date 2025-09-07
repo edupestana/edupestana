@@ -8,33 +8,6 @@
 <div align="center">
 Here, I share my work and passion for the world of programming and software development. I invite you to explore my repositories where you can find exciting projects and creative solutions.</div>
 
-
-##
-<p align="center">
-<picture>
-  <source
-    srcset="https://github-readme-stats-trichlol.vercel.app/api?username=edupestana&show_icons=true&theme=github_dark&border_radius=30&include_all_commits=true&count_private=true"
-    media="(prefers-color-scheme: dark)" height="180em" 
-  />
-  <source
-    srcset="https://github-readme-stats-trichlol.vercel.app/api?username=edupestana&show_icons=true&theme=graywhite&border_radius=30&include_all_commits=true&count_private=true"
-    media="(prefers-color-scheme: light)" height="180em" 
-  />
-  <img src="https://github-readme-stats-trichlol.vercel.app/api?username=edupestana&show_icons=true" /> 
-</picture>
-<picture>
-  <source
-    srcset="https://github-readme-stats-trichlol.vercel.app/api/top-langs/?username=edupestana&layout=compact&theme=github_dark&border_radius=30"
-    media="(prefers-color-scheme: dark)" height="180em" 
-  />
-  <source
-    srcset="https://github-readme-stats-trichlol.vercel.app/api/top-langs/?username=edupestana&layout=compact&theme=graywhite&border_radius=30"
-    media="(prefers-color-scheme: light)" height="180em" 
-  />
-  <img src="https://github-readme-stats-trichlol.vercel.app/api?username=edupestana&show_icons=true" />
-</picture>
-</p>
-
 ##
 
 <div>
