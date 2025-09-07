@@ -1,6 +1,6 @@
 <picture>
   <img
-    src="https://readme-typing-svg.herokuapp.com/?color=a6a6a6&size=35&center=true&width=1000&lines=Hello,+I%27m+Trich!"
+    src="https://readme-typing-svg.herokuapp.com/?color=a6a6a6&size=35&center=true&width=1000&lines=Hello,+I%27m+Eduardo!"
   />
 </picture>
 
